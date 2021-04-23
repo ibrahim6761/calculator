@@ -20,4 +20,4 @@ npm run lint
 
 ###
 
-Git hub adresime [Buradan](https://github.com/ibrahim6761
+GitHub adresime [Buradan](https://github.com/ibrahim6761
